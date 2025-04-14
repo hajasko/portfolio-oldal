@@ -3,7 +3,7 @@ html{
 }
 
 h1 {
-    color: dodgerblue;
+    color: rgba(22, 94, 167, 0.767);
     text-decoration: underline;
     font-size: 4.8rem;
 }
