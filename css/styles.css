@@ -3,7 +3,7 @@ html{
 }
 
 h1 {
-    color: red;
+    color: rgba(22, 94, 169, 0.767);
     text-decoration: underline;
     font-size: 4.8rem;
 }
